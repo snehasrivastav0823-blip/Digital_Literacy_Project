@@ -3,7 +3,8 @@
 ## 👤 Student Details
 - **Name:** Sneha Srivastava 
 - **Registration Number:** 25BAI10324 
-- **Course:** CSE0001 – Digital Literacy  
+- **Course Code:** CSE0001
+- **Course** – Digital Literacy  
 - **University:** VIT Bhopal  
 
 ---
