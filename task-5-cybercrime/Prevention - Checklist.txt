@@ -1,0 +1,19 @@
+﻿✅ General Safety Tips
+* ✔️ Create strong passwords (mix of letters, numbers, and symbols) and avoid reusing them
+* ✔️ Turn on two-factor authentication (2FA) for email, social media, and important apps
+* ✔️ Don’t click on unknown links or download files from untrusted sources
+* ✔️ Check website URLs carefully (look for HTTPS and correct spelling) before entering details
+* ✔️ Log out from accounts when using shared or public computers
+* ✔️ Be cautious about what you post—avoid sharing personal details like phone number, address, or college ID
+
+
+* 💰 UPI / Financial Safety Tips
+* ✔️ Never share your OTP, UPI PIN, or bank details with anyone—even if they claim to be from customer care
+* ✔️ Always verify the receiver’s UPI ID/name before sending money
+* ✔️ Do not accept unknown “collect” or “request money” notifications on UPI apps
+* ✔️ Use trusted apps like Google Pay, PhonePe, or Paytm and keep them updated
+
+
+🚨 Report Cybercrime Immediately
+* 🌐 Report online fraud at the National Cyber Crime Portal: cybercrime.gov.in
+* 📞 Call the Cyber Crime Helpline: 1930 (especially for financial fraud cases)
